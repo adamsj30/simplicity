@@ -1,5 +1,6 @@
 import java.applet.Applet;
 import java.awt.Graphics;
+import java.util.*;
 
 public class Game extends Applet{
 	
