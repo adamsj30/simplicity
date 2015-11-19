@@ -1,0 +1,3 @@
+/*
+	This class is set up to contain information about a character
+*/
