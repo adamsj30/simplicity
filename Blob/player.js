@@ -1,3 +1,0 @@
-/*
-	Inherits from character
-*/
