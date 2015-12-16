@@ -1,0 +1,3 @@
+/*
+	This class is set up to handle online sockets and multiplayer online
+*/
